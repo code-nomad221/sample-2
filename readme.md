@@ -1,0 +1,1 @@
+This is my 2 git repository to gain some knowledge of how to make repositories on the github
